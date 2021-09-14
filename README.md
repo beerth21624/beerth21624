@@ -1,11 +1,6 @@
-<div>
-### Hi there 👋
 
-</div>
-<div>
+### Hi there ,I am Beer👋
 
-
-</div>
 <!--
 **beerth21624/beerth21624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
