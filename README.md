@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there ,I am Sarawut inpol 👋
 
 ---
@@ -34,6 +35,11 @@
 		<td>MongoDB</td>
 	</tr>
 </table>
+=======
+
+### Hi there ,I am Beer👋
+
+>>>>>>> 04c3aedeb9fac7acec3713d9c7a6a1edb5e3dbd2
 <!--
 **beerth21624/beerth21624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
