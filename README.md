@@ -4,9 +4,6 @@
 </div>
 <div>
 
-![](https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/BhavyaCodes?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=BhavyaCodes&style=flat-square&color=ff69b4)
 
 </div>
 <!--
