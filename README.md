@@ -36,11 +36,10 @@
 	</tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerth21624&theme=blue-green&show_icons=true)
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beerth21624&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerth21624&theme=blue-green&show_icons=true)
+
 
 ## See my projects - [beerdosan.com](https://beerdosan.com/)
 
