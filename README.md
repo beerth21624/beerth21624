@@ -40,6 +40,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beerth21624&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
+---
+
 ## See my projects - [beerdosan.com](https://beerdosan.com/)
 
 
