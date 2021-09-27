@@ -36,7 +36,7 @@
 	</tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerth21624&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerth21624&theme=blue-green&show_icons=true)
 
 
 
