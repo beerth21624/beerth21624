@@ -1,6 +1,8 @@
 
 ### Hi there ,I am Sarawut inpol 👋
-
+- 👨 My nickname is Beer
+- ⏱ I am 21 years old
+- 🏠 I am from Nakornnayok
 ---
 
 ## Technologies I have used
