@@ -11,7 +11,7 @@
 <b>Loves:</b> code
 </li>
 <li>
-<b>Gender:</b> he/him/male 🏳️‍⚧️
+<b>University:</b> Kasetsart university 
 </li>
 
 <li>
