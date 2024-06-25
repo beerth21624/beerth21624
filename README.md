@@ -18,7 +18,7 @@
 <b>Hobbys:</b> Web Development
 </li>
 <li>
-<b>Working @:</b> G-able (1years)
+<b>Application developer @:</b> G-able (2years)
 </li>
 <br><br><br>
 
