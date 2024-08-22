@@ -1,84 +1,68 @@
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> Sarawut Inpol</li>
-<li>
-<b>Nick Name:</b> Beer
-</li>
-<li>
-<b>Loves:</b> code
-</li>
-<li>
-<b>University:</b> Kasetsart university 
-</li>
+<h1 align="center">🦊 Welcome to Sarawut Inpol's GitHub! 🦊</h1>
 
-<li>
-<b>Hobbys:</b> Web Development
-</li>
-<li>
-<b>Application developer @:</b> G-able (2years)
-</li>
-<br><br><br>
+<div align="center">
+  <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="200">
+</div>
 
-## Technologies I have used
+## 👨‍💻 About Me
 
-<table >
-	<tr align="center">
-		<td >
-			<img src="/.github/icons/react.png" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/nodejs.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/expressjs.png" width="60"/>
-		</td>
-		<td>
-			<img src="/.github/icons/materialui.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/redux.svg" width="60"/>
-		</td>
-		<td >
-			<img src="/.github/icons/mongodb.svg" width="60"/>
-		</td>
-	</tr>
-	<tr align="center">
-		<td>React</td>
-		<td>Node.js</td>
-		<td>Express.js</td>
-		<td>Material-UI</td>
-		<td>Redux</td>
-		<td>MongoDB</td>
-	</tr>
+- **Name:** Sarawut Inpol
+- **Nickname:** Beer
+- **Passion:** Coding & Web Development
+- **Education:** Kasetsart University
+- **Current Role:** Application Developer @ G-able (2 years)
+
+<br clear="right">
+
+## 🚀 Technologies & Tools
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br>React</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/><br>Express.js</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40"/><br>Material-UI</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/><br>Redux</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/><br>MongoDB</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br>TypeScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br>Git</td>
+  </tr>
 </table>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beerth21624&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beerth21624&theme=blue-green&show_icons=true)
-
-
-## See my projects - [beerdosan.com](https://beerdosan.com/)
-
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beerth21624&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beerth21624&theme=blue-green&show_icons=true" alt="GitHub Stats" />
 </div>
+
+## 🌟 Featured Projects
+
+Check out some of my best work at [beerdosan.com](https://beerdosan.com/)
+
+## 🎨 Fun Facts
+
+- 🍺 My nickname perfectly aligns with my love for coding (Beer + Code = Perfect Match!)
+- 🦊 I have a soft spot for cute fox gifs
+- 🌱 Always learning and growing in the world of web development
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
+
+<h2 align="center">💖 Thanks for visiting! 💖</h2>
+<div align="center">
+  <img src="https://i.imgur.com/tzYKRfd.gif" width="300">
+</div>
+
 <hr>
 
-
-
-<!--
-**beerth21624/beerth21624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>⭐️ From [beerth21624](https://github.com/beerth21624)</i>
+</div>
